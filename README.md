@@ -32,3 +32,14 @@ swiftUIone/
 │   ├── Resultview         # Destination view validating and displaying submitted data
 │   └── Rect               # Reusable styled component for custom grid cells
 └── swiftUIoneApp.swift    # Application entry point
+
+
+
+![Uploading Screenshot 2026-10-12 at 1.05.14 PM.png…]()
+![Uploading Screenshot 2026-10-12 at 1.05.42 PM.png…]()
+
+
+
+
+
+
