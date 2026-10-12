@@ -6,6 +6,7 @@ A modern iOS application built with **SwiftUI** demonstrating core UI components
 
 ## ✨ Features
 
+
 - **Interactive 3D Animations:** Dynamic `rotation3DEffect` and spring-like transitions triggered by tap gestures.
 - **Dynamic Gradients:** Smooth transition between linear color gradients and layout alignments.
 - **Adaptive Grid Layout:** Utilizes SwiftUI's `Grid` and `GridRow` with custom column spans (`gridCellColumns`).
@@ -33,10 +34,10 @@ swiftUIone/
 │   └── Rect               # Reusable styled component for custom grid cells
 └── swiftUIoneApp.swift    # Application entry point
 
+![![Uploading Screenshot 2026-10-12 at 1.06.14 PM.png…]()
+](https://github.com/user-attachments/assets/...)
 
 
-![Uploading Screenshot 2026-10-12 at 1.05.14 PM.png…]()
-![Uploading Screenshot 2026-10-12 at 1.05.42 PM.png…]()
 
 
 
